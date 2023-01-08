@@ -1,0 +1,16 @@
+
+        2023-01-09 09:50:24.860462 
+        Имя функции: FlatIterator
+        Аргументы: ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],) и {}
+        Результат: <__main__.FlatIterator object at 0x000001C1B63BCDF0>
+        
+        2023-01-09 09:50:24.861447 
+        Имя функции: FlatIterator
+        Аргументы: ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],) и {}
+        Результат: <__main__.FlatIterator object at 0x000001C1B63BCBB0>
+        
+        2023-01-09 09:50:24.861447 
+        Имя функции: FlatIterator
+        Аргументы: ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],) и {}
+        Результат: <__main__.FlatIterator object at 0x000001C1B63BCDF0>
+        
